@@ -1,5 +1,16 @@
 ## Next release
 
+## 0.1.2+3 - 2020-06-11
+
+* **Fixed:** intercept all open urls and launches, even though it can't be handled. 
+* Minor readme improvements.
+
+## 0.1.2+2 - 2020-06-03
+
+* Readme: fix links urls.
+* Readme: fix some errors in text.
+* Readme: Medium article link.
+
 ## 0.1.2+1 - 2020-05-27
 
 * Readme: add log in error handling.
